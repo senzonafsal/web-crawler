@@ -1,0 +1,16 @@
+{
+  "name": "web-crawler",
+  "version": "1.0.0",
+  "description": "Web Crawler CLI using Node.js",
+  "main": "crawler.js",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.11"
+  },
+  "scripts": {
+    "start": "node crawler.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Afsal KH",
+  "license": "ISC"
+}
